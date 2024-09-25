@@ -48,5 +48,5 @@ The primary objective of this case study is to identify these high-risk loan app
  - N/A
 
 ## Contact
-Siddhardha Mudumba
-Siju Babu
+- Siddhardha Mudumba
+- Siju Babu
